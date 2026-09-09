@@ -239,4 +239,4 @@ This repository serves as the official landing page for Dolby Access. The softwa
 **Get the most recent version of Dolby Access today!**
 
 ---
-**Last updated:** 2026-09-09 17:35:13 UTC
+**Last updated:** 2026-09-09 20:29:01 UTC
